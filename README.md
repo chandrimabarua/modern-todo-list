@@ -1,4 +1,4 @@
-# 👑 Royal Todo Pro
+# 👑  Todo Pro
 
 > A modern, responsive, and beginner-friendly Todo List application with a premium royal dark UI. Built using **HTML**, **Tailwind CSS v4**, and **Vanilla JavaScript (ES6 Basics)**.
 
